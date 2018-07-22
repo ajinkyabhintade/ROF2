@@ -46,19 +46,19 @@ html,body{
 #intro p {
     color: #FCF4DD;
     text-align: center;
-    /* font-family: 'Ewert', cursive; */
+    font-family: 'Montserrat', sans-serif;
     font-size: 3.5em;
     letter-spacing: 5px;
     padding-top: 20px;
 }
 
-#counter .countdown {
+/* #counter .countdown {
     text-align: center;
     color: #FCF4DD;
     font-family: 'Almendra', serif;
     font-size: 3em;
     margin: -10px 0 0 0;
-}
+} */
 
 #icons {
     text-align: center;
