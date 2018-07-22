@@ -39,31 +39,43 @@ html,body{
 }
 
 #logo img {
-    padding-top: 20px;
-    width: 30%;
+    padding-top: 50px;
+    width: 20%;
 }
 
-#intro p .top {
+#intro .top {
     color: #FCF4DD;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5em;
+    margin-top: 20px 0 -20px;
 }
 
-#intro p .bottom {
+#intro .bottom {
     color: #FCF4DD;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1.5em;
+    font-size: 2em;
+    margin-top: -30px;
 }
 
-/* #counter .countdown {
+#counter .tags {
     text-align: center;
     color: #FCF4DD;
-    font-family: 'Almendra', serif;
-    font-size: 3em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
     margin: -10px 0 0 0;
-} */
+    position: relative;
+
+}
+
+#counter .d, .h, .m, .s {
+    margin: 0 auto;
+    padding-right: 50px;
+}
+
+
+
 
 #icons {
     text-align: center;
