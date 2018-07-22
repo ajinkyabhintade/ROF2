@@ -43,12 +43,18 @@ html,body{
     width: 30%;
 }
 
-#intro p {
+#intro p .top {
     color: #FCF4DD;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5em;
-    padding-top: 20px;
+}
+
+#intro p .bottom {
+    color: #FCF4DD;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5em;
 }
 
 /* #counter .countdown {
